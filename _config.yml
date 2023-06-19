@@ -21,9 +21,7 @@
 title: Cybersecurity where to start and how.
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Explore the world of cyber security and IoT with our insightful blog. Stay updated on the latest trends, threats, and best practices. Discover expert tips, in-depth analysis, and practical guidance to protect your digital realm. Enhance your knowledge in just a few clicks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
